@@ -31,8 +31,7 @@ The insights generated from these queries can help management improve marketing 
 #  Tech Stack
 
 - PostgreSQL
-- SQL
-- GitHub
+
 
 ---
 
