@@ -152,8 +152,8 @@ Through this project, I strengthened my understanding of:
 
 #  Database Schema
 
-![SQL](MusicDatabaseSchema.png)
-```
+
+
 
 ---
 
