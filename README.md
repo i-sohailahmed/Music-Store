@@ -152,7 +152,7 @@ Through this project, I strengthened my understanding of:
 
 #  Database Schema
 
-![SQL](MusicDatabaseSchema0.png)
+![sql](MusicDatabaseSchema0.jpg)
 
 
 ---
