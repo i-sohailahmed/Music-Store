@@ -152,12 +152,7 @@ Through this project, I strengthened my understanding of:
 
 #  Database Schema
 
-*(Add your database schema image here after uploading it to GitHub.)*
-
-Example:
-
-```md
-![Database Schema](Database_Schema.png)
+![SQL](MusicDatabaseSchema.png)
 ```
 
 ---
